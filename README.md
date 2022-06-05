@@ -46,7 +46,7 @@ Mi historia laboral;
 Mi experiencia ha sido principalmente en el ámbito académico, creando proyectos en cada uno de los cursos, con cada uno una dificultad diferente.
 Actualmente estoy en el bootcamp de Santander, en donde pude ejercitar mis capacidades técnicas, pero sobre todo mis capacidades sociales como desarrollador.
 
-### Quieres saber más acerca de mi? Contáctame!.
+### ¿Quieres saber más acerca de mi? ¡Contáctame!.
 - Wpp: +56 9 01149456503
 - Email: ianfigueroa507@gmail.com
 - <a href="https://www.linkedin.com/in/ian-figueroa-789140187/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ian-figueroa-789140187/" height="30" width="40" /></a>
